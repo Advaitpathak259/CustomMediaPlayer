@@ -74,9 +74,8 @@ cd ../frontend
 npm run dev
 Open http://localhost:3000 in your browser to use the app.
 
-Folder Structure
-pgsql
-Copy code
+
+
 CustomMediaPlayer/
 ├── backend/
 │   ├── transcripts/          # Transcripts JSON files
